@@ -1,0 +1,8 @@
+map()
+Aplica una función a cada elemento de un iterable.
+filter()
+Filtra cada elemento de un iterable travez de una función.
+reduce()
+Toma los dos primeros elementos de un iterable y aplica un función.
+Toma el resutado anterior y el elemento siguiente y aplica la funcion.
+Repite hasta acabar con todos los elementos del iterable.
